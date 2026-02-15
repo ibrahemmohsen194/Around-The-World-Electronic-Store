@@ -45,7 +45,8 @@ Deep dive into product-level insights:
  [Tools & Technologies]
 - Power BI
 - DAX
-- Data Cleaning
+- Python (Data Cleaning & Preparation)
+- Pandas
 - Data Modeling
 - Business Intelligence
 
